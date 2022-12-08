@@ -1,4 +1,4 @@
-# Final Photos
+# Progress Photos
 
 ![alt text](https://cdn.shoecar.net/S8.T3.Naser.shoecar.AllElectronics.JPG)
 ![alt text](https://cdn.shoecar.net/S8.T3.Naser.shoecar.ArduinoCloseup.JPG)
