@@ -1,7 +1,7 @@
 # BE1200 Project: Shoe Car
 ## Created by: Jesse Naser, Ryan Cowells, Zion Carroll, Alex Badr
 
-[![Watch on YouTube](watch.png)](https://www.youtube.com/watch?v=fS1Hwe2q4Qo&list=PLjh9v2o8VzY1Sot727JJ6v3M8E6M4eveT)
+[![Watch on YouTube](watch.png)](https://www.youtube.com/watch?v=fS1Hwe2q4Qo&list=PLjh9v2o8VzY1v9dDh7WuwhNFxMltZwDtE)
 
 ---
 
